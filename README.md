@@ -12,6 +12,9 @@ https://www.cnblogs.com/fanguangdexiaoyuer/p/6066820.html<br/>
 Apache Kafka 分布式消息队列中间件安装与配置：<br/>
 http://blog.csdn.net/wangjia184/article/details/37921183<br/>
 
+kafka单节点启动<br/>
+https://blog.csdn.net/l1028386804/article/details/78348367
+
 # 注意：
 1. kafka安装目录下config/server.properties有如下配置信息，listeners配置的是hostname：<br/>
 > listeners=PLAINTEXT://node1:9092
