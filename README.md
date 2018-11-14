@@ -39,3 +39,9 @@ https://blog.csdn.net/l1028386804/article/details/78348367
  
  ### Kafka压力测试
  https://blog.csdn.net/laofashi2015/article/details/81111466
+ 
+ ### Kafka监控
+ kafka eagle:<br/>
+ https://www.cnblogs.com/smartloli/p/5829395.html<br/>
+ kakfa manager:<br/>
+ https://blog.csdn.net/yuan_xw/article/details/79188565<br/>
