@@ -36,3 +36,6 @@ https://blog.csdn.net/l1028386804/article/details/78348367
  直接配ip地址，而不是hostname: http://www.orchome.com/946
  
  kafka安装部署请参考：https://www.cnblogs.com/swordfall/p/8859053.html
+ 
+ ### Kafka压力测试
+ https://blog.csdn.net/laofashi2015/article/details/81111466
