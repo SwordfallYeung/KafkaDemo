@@ -7,8 +7,7 @@ http://orchome.com/kafka/index<br/>
 Kafka在windows安装运行：<br/>
 http://blog.csdn.net/evankaka/article/details/52421314<br/>
 <br/>
-如何为Kafka集群选择合适的partitions数量：<br/>
-https://www.cnblogs.com/fanguangdexiaoyuer/p/6066820.html<br/>
+
 Apache Kafka 分布式消息队列中间件安装与配置：<br/>
 http://blog.csdn.net/wangjia184/article/details/37921183<br/>
 
@@ -45,3 +44,9 @@ https://blog.csdn.net/l1028386804/article/details/78348367
  https://www.cnblogs.com/smartloli/p/5829395.html<br/>
  kakfa manager:<br/>
  https://blog.csdn.net/yuan_xw/article/details/79188565<br/>
+
+### 如何为Kafka集群选择合适的partitions数量：
+https://www.cnblogs.com/fanguangdexiaoyuer/p/6066820.html<br/>
+
+### kafka的topic及日志删除
+https://www.cnblogs.com/moonandstar08/p/6204581.html
