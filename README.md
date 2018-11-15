@@ -53,3 +53,6 @@ https://www.cnblogs.com/moonandstar08/p/6204581.html
 
 ### kafka中partition和消费者的关系
 https://www.jianshu.com/p/6233d5341dfe
+
+### kafka配置合适的partitions数量
+https://www.jianshu.com/p/8689901720fd
