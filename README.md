@@ -55,4 +55,6 @@ https://www.cnblogs.com/moonandstar08/p/6204581.html
 https://www.jianshu.com/p/6233d5341dfe
 
 ### kafka配置合适的partitions数量
-https://www.jianshu.com/p/8689901720fd
+一般建议：Partitions Num = Broker Num * Consumer Num<br/>
+https://www.jianshu.com/p/8689901720fd<br/>
+https://yezhwi.github.io/bigdata/2018/05/25/Kafka%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/
