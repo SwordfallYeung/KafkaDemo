@@ -50,3 +50,6 @@ https://www.cnblogs.com/fanguangdexiaoyuer/p/6066820.html<br/>
 
 ### kafka的topic及日志删除
 https://www.cnblogs.com/moonandstar08/p/6204581.html
+
+### kafka中partition和消费者的关系
+https://www.jianshu.com/p/6233d5341dfe
