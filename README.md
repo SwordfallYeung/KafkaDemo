@@ -55,7 +55,9 @@ https://www.cnblogs.com/moonandstar08/p/6204581.html
 https://www.jianshu.com/p/6233d5341dfe
 
 ### kafka配置合适的partitions数量
-一般建议：Partitions Num = Broker Num * Consumer Num<br/>
+1. 一般建议：Partitions Num = Broker Num * Consumer Num<br/>
+2. kafka权威指南所说的，分区数 = 每秒的写入量/每秒的消费量，partition最好小于kafka集群的总cores数<br/>
+3. 每秒目标吞吐量t，每秒生产量p，每秒消费量c，max(t/p, t/c) 最大值<br/>
 https://www.jianshu.com/p/8689901720fd<br/>
 https://yezhwi.github.io/bigdata/2018/05/25/Kafka%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/<br/>
 http://shift-alt-ctrl.iteye.com/blog/2423162
