@@ -62,3 +62,6 @@ http://shift-alt-ctrl.iteye.com/blog/2423162
 
 ### Kafka提供两种策略去删除旧数据。一是基于时间，二是基于partition文件大小
 http://www.jasongj.com/2015/01/02/Kafka%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90/
+
+### kafka性能测试方法及Benchmark报告
+http://www.uml.org.cn/bigdata/201709252.asp
