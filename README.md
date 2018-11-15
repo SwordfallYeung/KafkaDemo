@@ -58,3 +58,6 @@ https://www.jianshu.com/p/6233d5341dfe
 一般建议：Partitions Num = Broker Num * Consumer Num<br/>
 https://www.jianshu.com/p/8689901720fd<br/>
 https://yezhwi.github.io/bigdata/2018/05/25/Kafka%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/
+
+### Kafka提供两种策略去删除旧数据。一是基于时间，二是基于partition文件大小
+http://www.jasongj.com/2015/01/02/Kafka%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90/
