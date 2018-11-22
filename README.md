@@ -69,3 +69,6 @@ http://www.jasongj.com/2015/01/02/Kafka%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90/
 ### kafka性能测试方法及Benchmark报告
 http://www.uml.org.cn/bigdata/201709252.asp<br/>
 https://www.hadoop1024.com/2015/10/15/kafka%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/
+
+### kafka清空数据
+https://blog.csdn.net/belalds/article/details/80575751
