@@ -48,6 +48,10 @@ https://blog.csdn.net/l1028386804/article/details/78348367
  https://github.com/yahoo/kafka-manager<br/>
  https://www.cnblogs.com/dadonggg/p/8205302.html<br/>
 
+### kafka JMX监控
+https://blog.csdn.net/u013256816/article/details/53524884<br/>
+https://blog.csdn.net/feelwing1314/article/details/80808721<br/>
+
 ### 如何为Kafka集群选择合适的partitions数量：
 https://www.cnblogs.com/fanguangdexiaoyuer/p/6066820.html<br/>
 
