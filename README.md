@@ -42,8 +42,10 @@ https://blog.csdn.net/l1028386804/article/details/78348367
  ### Kafka监控
  kafka eagle:<br/>
  https://www.cnblogs.com/smartloli/p/5829395.html<br/>
+ https://github.com/smartloli/kafka-eagle<br/>
  kakfa manager:<br/>
  https://blog.csdn.net/yuan_xw/article/details/79188565<br/>
+ https://github.com/yahoo/kafka-manager<br/>
 
 ### 如何为Kafka集群选择合适的partitions数量：
 https://www.cnblogs.com/fanguangdexiaoyuer/p/6066820.html<br/>
