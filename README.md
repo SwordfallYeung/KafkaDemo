@@ -46,6 +46,7 @@ https://blog.csdn.net/l1028386804/article/details/78348367
  kakfa manager:<br/>
  https://blog.csdn.net/yuan_xw/article/details/79188565<br/>
  https://github.com/yahoo/kafka-manager<br/>
+ https://www.cnblogs.com/dadonggg/p/8205302.html<br/>
 
 ### 如何为Kafka集群选择合适的partitions数量：
 https://www.cnblogs.com/fanguangdexiaoyuer/p/6066820.html<br/>
