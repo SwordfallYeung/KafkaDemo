@@ -43,6 +43,11 @@ https://blog.csdn.net/l1028386804/article/details/78348367
  kafka eagle:<br/>
  https://www.cnblogs.com/smartloli/p/5829395.html<br/>
  https://github.com/smartloli/kafka-eagle<br/>
+ kafka-eagle报错JMX service url[192.168.187.202:9999] create has error,msg is Connection refused to host: 127.0.0.1; nested exception is: java.net.ConnectException: Connection refused (Connection refused)<br/>
+ >这个是由于/etc/hosts与hostname配置不正确所导致<br/>
+ /etc/hosts需配置kafka集群所有的ip和hostname对应<br/>
+ hostname设置为/etc/hosts里面所对应的hostname<br/>
+ 
  kakfa manager:<br/>
  https://blog.csdn.net/yuan_xw/article/details/79188565<br/>
  https://github.com/yahoo/kafka-manager<br/>
