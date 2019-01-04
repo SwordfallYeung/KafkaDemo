@@ -84,3 +84,7 @@ https://www.hadoop1024.com/2015/10/15/kafka%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/
 
 ### kafka清空数据
 https://blog.csdn.net/belalds/article/details/80575751
+
+### kafka集群调优
+https://www.iteblog.com/archives/1879.html<br/>
+https://blog.csdn.net/high2011/article/details/79822730<br/>
